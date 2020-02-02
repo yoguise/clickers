@@ -9,12 +9,16 @@ GitHub pages: [project page - Clicker 001](https://yoguise.github.io/clickers)
 
 Date format: `dd.mm`
 
-From - to (days quantity) | Clickers
-:---: | :---:
-01.02. - 02.02. (2 days) | [1, 23]
+Days | Date | Ideas | Dev | _
+:---: | :---: | :---: | :---: | :---:
+1. | 01.02. | 28 | 0 | 
+2. | 02.02. | 1 | 16 | 
+(**2**) | (**2**) | (**29**) | (**16**) | **Total**
 
 Year: 2020.
 
 ## License
 
 All rights reserved.
+
+Icons used (011, 012) are from flaticon.com, which I'm paying user of.
