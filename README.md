@@ -3,6 +3,8 @@
 An exercise in variety.  
 100 clicker games/examples/ideas in 100 nonsequential days.
 
+GitHub pages: [project page - Clicker 001](https://yoguise.github.io/clickers)
+
 ## Days in ideation and development
 
 Date format: `dd.mm`
