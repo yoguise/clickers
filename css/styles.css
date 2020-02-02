@@ -1,0 +1,70 @@
+body
+{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: rgb(23, 43, 77);
+}
+
+/* Layout */
+.flex
+{
+  display: flex;
+}
+.main-center
+{
+  justify-content: center;
+}
+
+/* Typography */
+h1, h2
+{
+  color: rgb(94, 108, 132);
+  font-weight: 400;
+}
+a
+{
+  outline: 0;
+}
+.text-center
+{
+  text-align: center;
+}
+
+/* Component - button */
+.button
+{
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  line-height: 36px;
+  padding: 0 16px;
+  white-space: nowrap;
+  border-radius: 12px;
+  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+  transition: transform .1s linear;
+}
+.button:hover
+{
+  box-shadow: 0 3px 1px -2px rgba(0,0,0,.4),0 2px 2px 0 rgba(0,0,0,.28),0 1px 5px 0 rgba(0,0,0,.24);
+  transform: translateY(-1px);
+}
+.button:active
+{
+  transform: translateY(1px);
+}
+
+/* Component - footer */
+.footer
+{
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(244, 245, 247);
+  margin-top: 80px;
+}
+
+
+/* Util */
+.mt-40
+{
+  margin-top: 40px;
+}
