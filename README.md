@@ -9,10 +9,10 @@ GitHub pages: [project page - Clicker 001](https://yoguise.github.io/clickers)
 
 Date format: `dd.mm`
 
-Days | Date | Ideas | Dev | _
+Days | Date | Ideas | Dev | o
 :---: | :---: | :---: | :---: | :---:
-1. | 01.02. | 28 | 0 | _
-2. | 02.02. | 1 | 16 | _
+1. | 01.02. | 28 | 0 | o
+2. | 02.02. | 1 | 16 | o
 (**2**) | (**2**) | (**29**) | (**16**) | **Total**
 
 Year: 2020.
