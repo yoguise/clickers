@@ -1,0 +1,11 @@
+.text
+{
+  width: 500px;
+  height: 167px;
+  margin: 40px auto;
+  color: #fff;
+}
+.color-black
+{
+  color: rgb(23, 43, 77);
+}

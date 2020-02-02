@@ -1,0 +1,18 @@
+.w-square
+{
+  width: 400px;
+  height: 400px;
+  margin: 40px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square
+{
+  width: 40px;
+  height: 40px;
+}
+.fill
+{
+  background-color: rgb(244, 245, 247);
+}
