@@ -1,0 +1,15 @@
+.counter
+{
+  width: 200px;
+  height: 200px;
+  font-size: 44px;
+  text-align: center;
+  line-height: 200px;
+}
+.message
+{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,43 @@
+.wrapper
+{
+  position: relative;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin: 40px auto;
+}
+.thick
+{
+  position: relative;
+  width: 50px;
+  height: 300px;
+  background-color: cornflowerblue;
+}
+.thin
+{
+  position: relative;
+  width: 10px;
+  height: 300px;
+  background-color: cornflowerblue;
+}
+.z-1
+{
+  z-index: 10;
+}
+.z-3
+{
+  z-index: 30;
+}
+.circle
+{
+  position: absolute;
+  left: -80px;
+  top: 130px;
+  width: 40px;
+  height: 40px;
+  background-color: crimson;
+  border-radius: 50%;
+  transition: transform .2s linear;
+  z-index: 20;
+}

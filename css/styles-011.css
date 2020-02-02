@@ -1,0 +1,28 @@
+.w-lake
+{
+  position: relative;
+  width: 600px;
+  height: 400px;
+  margin: 20px auto 0 auto;
+  background-color: rgba(40, 116,166,.3);
+}
+.swims
+{
+  position: relative;
+  text-align: center;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+.w-fish
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.fish
+{
+  position: relative;
+  transition: transform .2s ease;
+}
