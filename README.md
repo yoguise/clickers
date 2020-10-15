@@ -5,6 +5,8 @@ An exercise in variety.
 
 GitHub pages: [project page - Clicker 001](https://yoguise.github.io/clickers)
 
+**N.B.** Project put on indefinite hold, because it's interfering with my regular job where I have to ideate a lot. 
+
 ## Days in ideation and development
 
 Date format: `dd.mm`
@@ -20,5 +22,3 @@ Year: 2020.
 ## License
 
 All rights reserved.
-
-Icons used (011, 012) are from flaticon.com, which I'm paying user of.
